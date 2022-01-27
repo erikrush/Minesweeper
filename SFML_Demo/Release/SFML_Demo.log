@@ -1,0 +1,193 @@
+﻿  SFML_Demo.cpp
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(38,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(38,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(264,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(264,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(265,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(265,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(286,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(36,151): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(36,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(47,156): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(47,122): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(58,135): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(58,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(62,141): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(62,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(92,141): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(92,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(96,141): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(96,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(99,141): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(99,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(108,155): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(108,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(115,160): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\SFML_Demo.cpp(115,126): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  TextureManager.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\erikr\source\repos\SFML_Demo\SFML_Demo\Header.h(46): warning C4715: 'tileCoords': not all control paths return a value
+  All 398 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML_Demo.vcxproj -> C:\Users\erikr\source\repos\SFML_Demo\Release\SFML_Demo.exe
